@@ -1,0 +1,153 @@
+I am a senior WordPress developer, modern UI/UX designer, conversion-focused landing page expert, Google Ads specialist, and local SEO strategist.
+
+BUSINESS NAME:
+Veera Enterprises
+
+CONTACT DETAILS:
+Main Contact Numbers: 9146637761, 7887746318
+Kolhapur Service Number: 8624979599
+Pune Service Number: 8668217696
+
+MAIN BRANCH ADDRESS:
+Pragati Chowk, Pachgaon, Kolhapur – 416013
+
+BUSINESS TYPE:
+RO purifier service, repair, AMC & spare parts business
+(Retail + Wholesale)
+
+BUSINESS LOCATIONS:
+Main Branch: Kolhapur
+Branch / Warehouse: Pune – PCMC
+
+SERVICE COVERAGE:
+
+RETAIL SERVICES:
+Kolhapur city + nearby 25 km areas
+Pune PCMC area only (Pimpri, Chinchwad, Wakad, Nigdi, Bhosari, Akurdi, nearby PCMC)
+
+WHOLESALE SERVICES:
+No area limit
+Supply across:
+Maharashtra
+Karnataka
+Goa
+
+SERVICES OFFERED:
+RO service & repair
+RO installation & uninstallation
+RO AMC plans
+RO spare parts (all brands)
+Wholesale RO spare parts supply
+
+PRIMARY GOALS:
+Generate high-quality phone call & WhatsApp leads
+Support Google Ads & Local SEO for Kolhapur and Pune PCMC
+Clearly differentiate Retail vs Wholesale customers
+Build a modern, trustworthy brand presence
+Enable easy sharing via Digital Business Card
+
+WEBSITE REQUIREMENTS:
+Built using WordPress (Hostinger-friendly)
+Modern, clean, professional UI
+Mobile-first design
+High-conversion layout
+Google Ads compliant
+SEO optimized
+Fast loading
+Simple but premium look
+
+DESIGN & VISUAL REQUIREMENTS:
+Modern layout with clean sections
+Use RO-related images (water purification, technicians, spare parts)
+Include light, professional animations (no heavy effects):
+Smooth scroll animations
+Fade-in sections
+Hover effects on buttons/cards
+Optional:
+Short background video or animated hero section (water flow / purification theme)
+Animations should be subtle, fast, and not affect performance
+
+IMPORTANT LOCAL SEO RULES:
+Do NOT mix Kolhapur content with Pune PCMC content
+Each city must have unique, original copy
+Retail and Wholesale content must be clearly separated
+CTAs can be similar, but page content must be location-accurate
+
+DIGITAL BUSINESS CARD REQUIREMENTS:
+Create a dedicated “Digital Business Card” page for Veera Enterprises
+Mobile-first, shareable link
+Include:
+Business name
+Contact numbers (click-to-call)
+WhatsApp chat buttons (city-wise)
+Main branch address
+Service areas (Retail & Wholesale)
+Services list
+Google Maps link placeholder
+“Save Contact” (vCard download)
+QR code for sharing
+WhatsApp & SMS share buttons
+Suitable for technicians to share with customers
+
+NOW CREATE ALL OF THE FOLLOWING IN ONE RESPONSE:
+
+SEO-friendly, neutral domain name suggestions (10 options) suitable for Veera Enterprises (scalable across states).
+Complete website structure including:
+Homepage
+Retail Services pages (Kolhapur & Pune PCMC)
+Wholesale Services page (Maharashtra, Karnataka, Goa)
+Area-wise pages
+Digital Business Card page
+Privacy Policy
+Modern homepage content with:
+Strong hero section
+Retail vs Wholesale clear split
+Location selector (Kolhapur / Pune PCMC)
+Call & WhatsApp CTAs
+High-conversion Google Ads landing page for:
+RO Service in Kolhapur (Retail)
+High-conversion Google Ads landing page for:
+RO Service in Pune PCMC (Retail)
+Wholesale landing page content targeting dealers & bulk buyers (pan-state).
+One reusable area-wise landing page template.
+One ready-to-use single-page HTML version (modern look) including:
+Inline CSS
+Mobile responsiveness
+Click-to-call & WhatsApp buttons
+Placeholder images/video
+Digital Business Card:
+Page content
+vCard (.vcf) structure
+QR code usage
+Step-by-step guide to build this website on WordPress using Hostinger:
+Hosting setup
+WordPress installation
+Free modern theme recommendation
+Plugin list (animations, performance, SEO)
+How to add animations safely
+Google Ads strategy:
+Separate campaigns for Kolhapur, Pune PCMC, Wholesale
+Keyword examples
+Landing page mapping
+Budget allocation logic
+Google Analytics 4 + Google Tag Manager + Google Ads conversion tracking:
+Call tracking
+WhatsApp click tracking
+Form tracking
+Google Ads–compliant Privacy Policy for Veera Enterprises.
+Final website launch checklist:
+Mobile & speed check
+SEO basics
+Ads readiness
+Tracking verification
+Digital business card testing
+
+OUTPUT REQUIREMENTS:
+Clear headings
+Section-wise content
+Production-ready copy & code
+Modern, professional tone
+No fluff or assumptions
+Actionable and implementation-ready
+
+This single response should be sufficient to fully build, launch, advertise, and scale the online presence of Veera Enterprises.
