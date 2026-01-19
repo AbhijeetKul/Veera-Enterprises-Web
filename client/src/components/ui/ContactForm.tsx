@@ -50,7 +50,7 @@ export function ContactForm() {
               <FormItem>
                 <FormLabel>Full Name</FormLabel>
                 <FormControl>
-                  <Input placeholder="John Doe" {...field} />
+                  <Input placeholder=" " {...field} />
                 </FormControl>
                 <FormMessage />
               </FormItem>
@@ -63,7 +63,7 @@ export function ContactForm() {
               <FormItem>
                 <FormLabel>Phone Number</FormLabel>
                 <FormControl>
-                  <Input placeholder="9999999999" type="tel" {...field} />
+                  <Input placeholder="91+" type="tel" {...field} />
                 </FormControl>
                 <FormMessage />
               </FormItem>
