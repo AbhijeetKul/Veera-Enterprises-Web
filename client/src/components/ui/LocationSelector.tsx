@@ -15,7 +15,7 @@ export function LocationSelector() {
               <MapPin className="w-6 h-6 text-primary" />
             </div>
             <div>
-              <h3 className="font-heading font-bold text-lg text-foreground">Kolhapur & Nearby</h3>
+              <h3 className="font-heading font-bold text-lg text-foreground">Kolhapur</h3>
               <p className="text-muted-foreground text-sm">Retail Service, Repair & Installation</p>
             </div>
           </motion.div>
