@@ -16,10 +16,10 @@ export function Footer() {
           <div>
             <h4 className="font-heading font-semibold text-white mb-4">Quick Links</h4>
             <ul className="space-y-2 text-sm">
-              <li><Link href="/retail-kolhapur" className="hover:text-primary transition-colors">Kolhapur Services</Link></li>
-              <li><Link href="/retail-pune" className="hover:text-primary transition-colors">Pune PCMC Services</Link></li>
-              <li><Link href="/wholesale" className="hover:text-primary transition-colors">Wholesale Parts</Link></li>
-              <li><Link href="/card" className="hover:text-primary transition-colors">Digital Card</Link></li>
+              <li><Link href="/retail-kolhapur"><a className="hover:text-primary transition-colors">Kolhapur Services</a></Link></li>
+              <li><Link href="/retail-pune"><a className="hover:text-primary transition-colors">Pune PCMC Services</a></Link></li>
+              <li><Link href="/wholesale"><a className="hover:text-primary transition-colors">Wholesale Parts</a></Link></li>
+              <li><Link href="/card"><a className="hover:text-primary transition-colors">Digital Card</a></Link></li>
             </ul>
           </div>
 
@@ -55,8 +55,8 @@ export function Footer() {
         <div className="mt-12 pt-8 border-t border-slate-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-slate-500">
           <p>© {new Date().getFullYear()} Veera Enterprises. All rights reserved.</p>
           <div className="flex gap-6">
-            <Link href="/privacy" className="hover:text-white">Privacy Policy</Link>
-            <Link href="/terms" className="hover:text-white">Terms of Service</Link>
+            <Link href="/privacy"><a className="hover:text-white">Privacy Policy</a></Link>
+            <Link href="/terms"><a className="hover:text-white">Terms of Service</a></Link>
           </div>
         </div>
       </div>
