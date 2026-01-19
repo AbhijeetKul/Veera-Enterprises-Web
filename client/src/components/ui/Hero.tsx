@@ -1,7 +1,8 @@
 import { motion } from "framer-motion";
-import { Button } from "@/components/ui/button";
+import { Button, buttonVariants } from "@/components/ui/button";
 import { ArrowRight, Phone } from "lucide-react";
 import { Link } from "wouter";
+import { cn } from "@/lib/utils";
 
 interface HeroProps {
   title: string;
@@ -62,19 +63,17 @@ export function Hero({ title, subtitle, image, type = "home", ctaText = "Book Se
             transition={{ duration: 0.5, delay: 0.2 }}
             className="flex flex-col sm:flex-row gap-4 pt-4"
           >
-            <a href={ctaLink.startsWith("tel") ? ctaLink : undefined}>
-                {ctaLink.startsWith("tel") ? (
+            {ctaLink.startsWith("tel") ? (
+                <a href={ctaLink}>
                      <Button size="lg" className="bg-primary hover:bg-primary/90 text-white font-semibold h-12 px-8 text-base">
                         <Phone className="mr-2 h-5 w-5" /> {ctaText}
                      </Button>
-                ) : (
-                    <Link href={ctaLink}>
-                        <Button size="lg" className="bg-primary hover:bg-primary/90 text-white font-semibold h-12 px-8 text-base cursor-pointer">
-                            {ctaText} <ArrowRight className="ml-2 h-5 w-5" />
-                        </Button>
-                    </Link>
-                )}
-            </a>
+                </a>
+            ) : (
+                <Link href={ctaLink} className={cn(buttonVariants({ size: "lg" }), "bg-primary hover:bg-primary/90 text-white font-semibold h-12 px-8 text-base cursor-pointer")}>
+                        {ctaText} <ArrowRight className="ml-2 h-5 w-5" />
+                </Link>
+            )}
             
             {type === "retail" && (
                 <a href="https://wa.me/919146637761?text=Hi,%20I%20need%20RO%20service" target="_blank" rel="noopener noreferrer">
@@ -84,11 +83,9 @@ export function Hero({ title, subtitle, image, type = "home", ctaText = "Book Se
                 </a>
             )}
              {type === "wholesale" && (
-                <a href="/card">
-                    <Button variant="outline" size="lg" className="border-white/20 hover:bg-white/10 text-white h-12 px-8 text-base bg-transparent">
+                <Link href="/card" className={cn(buttonVariants({ variant: "outline", size: "lg" }), "border-white/20 hover:bg-white/10 text-white h-12 px-8 text-base bg-transparent cursor-pointer")}>
                         Download Catalog
-                    </Button>
-                </a>
+                </Link>
             )}
           </motion.div>
         </div>
