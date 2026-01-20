@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { useSearchParams } from 'wouter';
+
 import { BUSINESS_DATA } from '../constants';
 
 const DigitalCard: React.FC = () => {
